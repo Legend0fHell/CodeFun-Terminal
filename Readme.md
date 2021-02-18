@@ -1,7 +1,7 @@
 # CodeFun-Terminal
 
 CodeFun-Terminal is a small attempt to build a full-blown IDE to submit CodeFun problems.
-Coded by Python uwu
+Coded in Python uwu
 
 ```
 ░█████╗░███████╗░░░░░░████████╗███████╗██████╗░███╗░░░███╗██╗███╗░░██╗░█████╗░██╗░░░░░
